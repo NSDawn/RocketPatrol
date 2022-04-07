@@ -1,2 +1,3 @@
-why did you open this file
-weirdo
+a tutorial 
+cmpm 120
+this is a haiku. 
